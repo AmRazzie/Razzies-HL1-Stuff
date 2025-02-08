@@ -8,4 +8,5 @@ Contains aliases for swapping to specific one instead of scrolling through one b
 
 Just place everything in valve_WON folder.
 
-download-directory.github.io?url=https://github.com/AmRazzie/HL1-Stuff/tree/main/My%20Practice%20CFG
+Direct download:
+https://download-directory.github.io/?url=https://github.com/AmRazzie/HL1-Stuff/tree/main/My%20Practice%20CFG
