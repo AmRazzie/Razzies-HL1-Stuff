@@ -1,4 +1,4 @@
 # Contents  
 -My own userconfig  
--My aliases for quality of life shortcuts
+-My aliases for quality of life shortcuts  
 -Saves 
