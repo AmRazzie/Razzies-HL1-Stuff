@@ -1,2 +1,4 @@
 # HL1-Stuff
-My personal repo for HL1 related files
+Contains  
+-My own userconfig  
+-My aliases for quality of life shortcuts
