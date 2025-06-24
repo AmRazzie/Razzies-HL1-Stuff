@@ -1,0 +1,18 @@
+////Aliases////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+alias userconfig "exec userconfig.cfg" //Refreshes userconfig
+alias tr "_bxt_interprocess_stop;_bxt_interprocess_reset" //Fixes broken timer
+alias pracon "exec PracticeCFGS/practice.cfg; bxt_hud_origin 1; bxt_hud_health 1" //Loads practice configs
+alias pracoff "unbind rightarrow; unbind leftarrow; bxt_hud_origin 0; bxt_hud_health 0"
+alias mouseon "vgui_emulatemouse 1" //Enables mouse-fix
+alias mouseoff "vgui_emulatemouse 0" //Disables mouse-fix
+alias slowmo "exec cfg/slowmo.cfg" //Turns on slowmo
+alias normalspeed "exec cfg/normalspeed.cfg" //Turns off slowmo
+alias texture "load texture" //Loads ST cliff texture save
+alias bhops "bind c bhops2" //Naderail bhop practice load bind
+alias bhops2 "load bhops"
+alias loadbind "exec cfg/loadbind.cfg" //Rebinds normal quickload 
+alias demofix "exec cfg/demofix.cfg" //Fixes movement after viewing demos
+alias showtriggers "bxt_show_triggers_legacy 1" //Shows triggers
+alias hidetriggers "bxt_show_triggers_legacy 0" //Hides triggers
+//Keypad Echo //Prints keypad button names
+alias keypad "echo 1 = kp_end; echo 2 = kp_downarrow; echo 3 = kp_pgdn; echo 4 = kp_leftarrow; echo 5 = kp_5; echo 6 = kp_rightarrow; echo 7 = kp_home; echo 8 = kp_uparrow; echo 9 = kp_pgup; echo 0 = kp_ins; echo Enter = kp_enter; echo / = kp_slash;echo * = kp_multiply; echo - = kp_minus; echo + = kp_plus; echo , = kp_del"

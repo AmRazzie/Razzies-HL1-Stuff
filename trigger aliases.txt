@@ -1,0 +1,12 @@
+////Triggers///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+alias tron "bind mouse3 +bxt_triggers_place;bxt_show_custom_triggers 1; bxt_triggers_color 0" //Binds drawing custom trigger boxes on mouse3
+alias troff "bind mouse3 troff2" //Turns off drawing custom triggers
+alias troff2 "save hard"
+alias trclear "bxt_triggers_clear" //Clears all custom triggers
+alias trdel "bxt_triggers_delete" //Deletes last custom trigger
+alias setstart "bxt_triggers_setcommand rs" //Sets timer start for last custom trigger
+alias setstop "bxt_triggers_setcommand stp" //Sets timer stop for last custom trigger
+alias rs "bxt_timer_reset; bxt_timer_start"
+alias stp "bxt_timer_stop"
+alias ls "bind c lstart" //Load save and start timer
+alias lstart "load quick; rs"
